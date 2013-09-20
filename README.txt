@@ -1,0 +1,1 @@
+This is a place for me to work out the samples and the exercises for "PHP for Absolute Beginners" by Jason Lengstorf
